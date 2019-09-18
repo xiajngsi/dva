@@ -35,5 +35,8 @@
       "prettier --trailing-comma es5 --single-quote --write",
       "git add"
     ]
+  },
+  "dependencies": {
+    "react-router-dom": "^5.0.1"
   }
 }
